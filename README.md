@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
   
   <br />
-  <br />
   
   <h3>🌿 I've used 🌿<h3>
   <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=Apple&logoColor=white"/></a>
