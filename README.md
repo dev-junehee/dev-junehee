@@ -4,7 +4,7 @@
 
  <p>
     <a href="mailto:dev.junehee@gmail.com/"><img src="https://img.shields.io/badge/dev.junehee@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://june-hee.notion.site/Dev-junehee-924c9cfbeb614fdc9c88fb3a98748748?pvs=4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/kimjunehee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
     <a href="https://velog.io/@devjunehee/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
     <!-- <a href="https://june-hee.notion.site/Dev-junehee-924c9cfbeb614fdc9c88fb3a98748748?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a> -->
   </p>
