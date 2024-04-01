@@ -1,11 +1,10 @@
-## 𝒅𝒆𝒗. 𝒋𝒖𝒏𝒆𝒉𝒆𝒆! 👩🏻‍💻✨
-
+## dev. junehee! 👩🏻‍💻✨
 <p>
  𝙰𝚕𝚕 𝚒𝚜 𝚏𝚕𝚎𝚎𝚝𝚒𝚗𝚐, 𝚊𝚕𝚕 𝚠𝚒𝚕𝚕 𝚐𝚘.<br />
  𝚆𝚑𝚊𝚝 𝚒𝚜 𝚐𝚘𝚗𝚎 𝚠𝚒𝚕𝚕 𝚝𝚑𝚎𝚗 𝚋𝚎 𝚙𝚕𝚎𝚊𝚜𝚊𝚗𝚝.
 </p>
 
-<h3>𝑺𝒌𝒊𝒍𝒍𝒔 🛠</h3> 
+<p>𝑺𝒌𝒊𝒍𝒍𝒔 🛠</p> 
    <p>
      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
      <img src="https://img.shields.io/badge/NEXT.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
@@ -17,7 +16,7 @@
      <img src="https://img.shields.io/badge/Emotion-EC5990?style=flat-square&logo=undertale&logoColor=white"/>
   </p>
   
-<h3> 𝑴𝒆 🍒</h3> 
+<p> 𝑴𝒆 🍒</p> 
 <p>
  <a href="mailto:dev.junehee@gmail.com/"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/kimjunehee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
