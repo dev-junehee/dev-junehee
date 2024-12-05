@@ -1,7 +1,7 @@
 ## dev. junehee! 👩🏻‍💻✨
 <p>
  𝙰𝚕𝚕 𝚒𝚜 𝚏𝚕𝚎𝚎𝚝𝚒𝚗𝚐, 𝚊𝚕𝚕 𝚠𝚒𝚕𝚕 𝚐𝚘.<br />
- 𝚆𝚑𝚊𝚝 𝚒𝚜 𝚐𝚘𝚗𝚎 𝚠𝚒𝚕𝚕 𝚝𝚑𝚎𝚗 𝚋𝚎 𝚙𝚕𝚎𝚊𝚜𝚊𝚗𝚝.
+ 𝚆𝚑𝚊𝚝 𝚒𝚜 𝚐𝚘𝚗𝚎 𝚠𝚒𝚕𝚕 𝚝𝚑𝚎𝚗 𝚋𝚎 𝚙𝚕𝚎𝚊𝚜𝚊𝚗𝚝.<br />
 </p>
 
 <p>𝐌𝐚𝐣𝐨𝐫 📱</p> 
@@ -10,7 +10,9 @@
      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
      <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white"/>
      <img src="https://img.shields.io/badge/SwiftUI-blue?style=flat-square&logo=Swift&logoColor=white"/>
+     <br />
      <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Combine-81DAF5?style=flat-square&logo=Swift&logoColor=white"/>
    </p>
 
 <p>𝐒𝐮𝐛 🖥️</p> 
@@ -19,12 +21,13 @@
      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   </p>
 
-<p> 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞! 🍒</p> 
+<p> 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞! 🍒</p>
+
 <p>
  <a href="mailto:dev.junehee@gmail.com/"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/kimjunehee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
  <a href="https://velog.io/@devjunehee/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
- <!-- <a href="https://june-hee.notion.site/Dev-junehee-924c9cfbeb614fdc9c88fb3a98748748?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a> -->
+ <a href="https://devjunehee.notion.site/JuneHee-s-Development-Diary-7328726e5fef4f7b9442da3bd1a6e7ca?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
 <br />
