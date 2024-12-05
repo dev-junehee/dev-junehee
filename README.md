@@ -12,12 +12,12 @@
      <img src="https://img.shields.io/badge/SwiftUI-blue?style=flat-square&logo=Swift&logoColor=white"/>
      <br />
      <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Combine-81DAF5?style=flat-square&logo=Swift&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Combine-81DAF5?style=flat-square&logo=Swift&logoColor=black"/>
    </p>
 
 <p>𝐒𝐮𝐛 🖥️</p> 
   <p>
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   </p>
 
