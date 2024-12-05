@@ -1,10 +1,10 @@
-## dev. junehee! 👩🏻‍💻✨
+## 𝑑𝑒𝑣. 𝑗𝑢𝑛𝑒ℎ𝑒𝑒!
 <p>
  𝙰𝚕𝚕 𝚒𝚜 𝚏𝚕𝚎𝚎𝚝𝚒𝚗𝚐, 𝚊𝚕𝚕 𝚠𝚒𝚕𝚕 𝚐𝚘.<br />
  𝚆𝚑𝚊𝚝 𝚒𝚜 𝚐𝚘𝚗𝚎 𝚠𝚒𝚕𝚕 𝚝𝚑𝚎𝚗 𝚋𝚎 𝚙𝚕𝚎𝚊𝚜𝚊𝚗𝚝.<br />
 </p>
 
-<p>𝐌𝐚𝐣𝐨𝐫 📱</p> 
+<p>𝐌𝐚𝐣𝐨𝐫 ◡̈⋆*</p> 
    <p>
      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
@@ -15,13 +15,13 @@
      <img src="https://img.shields.io/badge/Combine-81DAF5?style=flat-square&logo=Swift&logoColor=black"/>
    </p>
 
-<p>𝐒𝐮𝐛 🖥️</p> 
+<p>𝐌𝐢𝐧𝐨𝐫 ꒰⍢꒱ ༘*</p> 
   <p>
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   </p>
 
-<p> 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞! 🍒</p>
+<p> 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞! ☺︎</p>
 
 <p>
  <a href="mailto:dev.junehee@gmail.com/"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
