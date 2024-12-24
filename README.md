@@ -4,7 +4,7 @@
  𝚆𝚑𝚊𝚝 𝚒𝚜 𝚐𝚘𝚗𝚎 𝚠𝚒𝚕𝚕 𝚝𝚑𝚎𝚗 𝚋𝚎 𝚙𝚕𝚎𝚊𝚜𝚊𝚗𝚝.<br />
 </p>
 
-<p>𝐌𝐚𝐣𝐨𝐫 ◡̈⋆*</p> 
+<p>𝐢𝐎𝐒 ◡̈⋆*</p> 
    <p>
      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
@@ -15,7 +15,7 @@
      <img src="https://img.shields.io/badge/Combine-81DAF5?style=flat-square&logo=Swift&logoColor=black"/>
    </p>
 
-<p>𝐌𝐢𝐧𝐨𝐫 ꒰⍢꒱ ༘*</p> 
+<p>𝐖𝐞𝐛 ꒰⍢꒱ ༘*</p> 
   <p>
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
