@@ -34,9 +34,11 @@
  <a href="https://devjunehee.notion.site/JuneHee-s-Development-Diary-7328726e5fef4f7b9442da3bd1a6e7ca?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
+<!--
 <br />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-junehee%2F&count_bg=%23E1DFDF&title_bg=%23EDEDED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+-->
 
  <!--
   <h4>I've used 🌿<h4>
